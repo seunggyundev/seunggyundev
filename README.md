@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=DAECFF&height=300&section=header&text=SeungGyunDev%20render&fontSize=50&fontColor=4b6274)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=DAECFF&height=300&section=header&text=SeungGyunDev&fontSize=50&fontColor=4b6274)
 
 ![seunggyundev's github stats](https://github-readme-stats.vercel.app/api?username=seunggyundev&show_icons=true)
 [![seunggyundev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggyundev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seunggyundev)
