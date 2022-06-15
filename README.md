@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=DAECFF&height=200&section=header&text=SeungGyunDev&fontSize=50&fontColor=4b6274)
 
 ![seunggyundev's github stats](https://github-readme-stats.vercel.app/api?username=seunggyundev&show_icons=true)
